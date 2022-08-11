@@ -1,0 +1,17 @@
+title: Sasso dopo sasso
+author: 
+  name: Caterina Grillo, Arianna Masciolini and Velia Sajeva
+description: > 
+  Rimarrete di sasso!
+
+header_pages:
+  - catalogo.md
+  - ringraziamenti.md
+
+show_excerpts: false
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  date_format: "%-d %B %Y"
