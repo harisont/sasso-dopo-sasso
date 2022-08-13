@@ -5,7 +5,7 @@ layout: post
 
 ## Un mare di sassi
 
-## Uccellacci e uccellini
+## Uccellacci ed uccellini
 
 ### Le galline pensierose
 

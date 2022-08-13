@@ -4,7 +4,7 @@ Articolata in diverse sezioni, offre uno spaccato delle molteplici capacitá esp
 
 Nella sezione "__Un mare di sassi__" confluiscono reperti che ricordano, per forma e colorazione, la specie ittiche del Mediterraneo, dai grandi cetacei oramai estinti alla piú contemporanea sardina; una carrellata che si conclude ipotizzando uno scenario futuribile caratterizzato dalla contaminazione pesce-plastica.
 
-Testimonianza ulteriore del forte interesse faunistico della curatrice Katia Grillo é la serie "__Uccellacci e uccellini__", la scelta dei cui pezzi si ispira al neorealismo pasoliniano. 
+Testimonianza ulteriore del forte interesse faunistico della curatrice Katia Grillo é la serie "__Uccellacci ed uccellini__", la scelta dei cui pezzi si ispira al neorealismo pasoliniano. 
 Sezione piú ricca e nutrita dell'intera esposizione, ospita diversi esemplari litici di volatili domestici e selvatici.
 Al suo interno, per la prima volta parte di un'esposizione aperta al pubblico, alcuni pezzi della collezione privata fanese "__Le galline pensierose__". 
 

@@ -27,7 +27,7 @@ Arianna Masciolini
 #### Musiche
 - Antoine, _Pietre_
 - Giorgio Laneve, _Amore dove sei_
-- Ennio Morricone, _Titoli di testa cantati di Uccellacci e uccellini_
+- Ennio Morricone, _Titoli di testa cantati di Uccellacci ed uccellini_
 - Gino Paoli, _Sassi_
 
 #### Conenuti audiovisivi
