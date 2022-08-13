@@ -13,21 +13,21 @@ Katia Grillo
 ### Progetto grafico
 Velia Sajeva
 
-### Fotografie
+#### Fotografie
 Arianna Masciolini
 
-### Sito web
+#### Sito web
 Arianna Masciolini
 
-### Testi
+#### Testi
 - Katia Grillo
 - Arianna Masciolini
 
-### Musiche
+#### Musiche
 - Antoine, _Pietre_
 - Giorgio Laneve, _Amore dove sei_
 - Ennio Morricone, _Titoli di testa cantati di Uccellacci e uccellini_
 - Gino Paoli, _Sassi_
 
-### Conenuti audiovisivi
+#### Conenuti audiovisivi
 Roberto Mercadini, _La vita esuberante delle pietre_
