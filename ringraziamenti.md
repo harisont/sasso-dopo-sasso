@@ -1,5 +1,5 @@
 ---
-title: Ringraziamenti
+title: A cura di
 layout: post
 ---
 
@@ -32,3 +32,6 @@ Arianna Masciolini
 
 #### Conenuti audiovisivi
 Roberto Mercadini, _La vita esuberante delle pietre_
+
+#### Ringraziamenti
+Si ringrazia il dott. Enrico Masciolini per il ponderoso aiuto nel lavoro di ricognizione e reperimento dei materiali. 
