@@ -40,14 +40,15 @@ layout: post
 20. Sasso prezioso
 21. Sasso elegante
 22. Sasso da sera
-23. Sasso giallino
-24. Sasso verdino (?)
-25. Sasso bluastro (?)
-26. Sasso violetto (?)
-27. Sasso emergente
-28. Sasso non sasso
-29. Sasso trovato
-30. Sasso perduto
+23. Sassi bottone
+24. Sasso giallino
+25. Sasso verdino (?)
+26. Sasso bluastro (?)
+27. Sasso violetto (?)
+28. Sasso emergente
+29. Sasso non sasso
+30. Sasso trovato
+31. Sasso perduto
 
 ### I grandi sassi
 1. Sasso spaccato
