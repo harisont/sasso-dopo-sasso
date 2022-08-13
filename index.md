@@ -15,9 +15,9 @@ Adatte ad un pubblico di ogni etá le due sezioni __"Sassi bestiali"__ e __"Sass
 La prima, una collezione di pietre zoomorfe, evidenzia la straordinaria biodiversitá del Comune di Realmonte. 
 La seconda, composta da ciottoli antropomorfi, rimanda, tramite le innumerevoli espressioni facciali rappresentatevi, alle diverse sfumature dell'emotivitá umana.
 
-L'importante sezione "__Sassi vari__" intende indurre il pubblico ad un atteggiamento di empatico rispetto verso ció che ad uno sguardo frettoloso puó apparire materia inerte e inamovibile.
+L'importante sezione "__Sassi vari__" intende indurre il pubblico ad un atteggiamento di empatico rispetto verso ció che ad uno sguardo frettoloso puó apparire materia inerte e inamovibile. Al contrario, il gruppo "__Sassi in piedi e sassi seduti__" restituisce allo spettatore un'impressione di vivo dinamismo.
 
-Di contro, la serie __"Altri sassi"__ presenta pietre aventi ciascuna una forte individualitá, nella cui interpretazione il visitatore é volutamente lasciato libero, assolvendo cosí ad una funzione proiettivo-catartica.
+La serie __"Altri sassi"__ presenta invece pietre aventi ciascuna una forte individualitá, nella cui interpretazione il visitatore é volutamente lasciato libero, assolvendo cosí ad una funzione proiettivo-catartica.
 
 L'itinerario si conclude con una sezione interattiva, "__Sassi di scorta__", in cui al vistatore viene offerta la possibilitá di partecipare da protagonista alla catalogazione e all'inserimento in mostra di ciottoli non ancora esposti.
 
