@@ -29,24 +29,25 @@ layout: post
 9. Sasso scavato
 10. Sasso forato
 11. Sasso incrostato
-12. Sasso a dondolo
-13. Sasso paffuto
-14. Sasso snello
-15. Sasso perfetto
-16. Sasso imperfetto
-17. Sasso ammaccato
-18. Sasso macchiato
-19. Sasso prezioso
-20. Sasso elegante
-21. Sasso da sera
-22. Sasso giallino
-23. Sasso verdino (?)
-24. Sasso bluastro (?)
-25. Sasso violetto (?)
-26. Sasso emergente
-27. Sasso non sasso
-28. Sasso trovato
-29. Sasso perduto
+12. Sasso scorticato
+13. Sasso a dondolo
+14. Sasso paffuto
+15. Sasso snello
+16. Sasso perfetto
+17. Sasso imperfetto
+18. Sasso ammaccato
+19. Sasso macchiato
+20. Sasso prezioso
+21. Sasso elegante
+22. Sasso da sera
+23. Sasso giallino
+24. Sasso verdino (?)
+25. Sasso bluastro (?)
+26. Sasso violetto (?)
+27. Sasso emergente
+28. Sasso non sasso
+29. Sasso trovato
+30. Sasso perduto
 
 ### I grandi sassi
 1. Sasso spaccato
