@@ -2,7 +2,6 @@
 title: A cura di
 layout: post
 ---
-
 #### Ideazione
 Katia Grillo
 
@@ -12,16 +11,16 @@ Katia Grillo
 - Velia Sajeva
 
 #### Progetto grafico
-Velia Sajeva
-
-#### Fotografie
-Arianna Masciolini
-
-#### Sito web
-Arianna Masciolini
+- Velia Sajeva
 
 #### Testi
 - Katia Grillo
+- Arianna Masciolini
+
+#### Fotografie
+- Arianna Masciolini
+
+#### Sito web
 - Arianna Masciolini
 
 #### Musiche
@@ -31,7 +30,7 @@ Arianna Masciolini
 - Gino Paoli, _Sassi_
 
 #### Conenuti audiovisivi
-Roberto Mercadini, _La vita esuberante delle pietre_
+- Roberto Mercadini, _La vita esuberante delle pietre_
 
 #### Ringraziamenti
 Si ringrazia il dott. Enrico Masciolini per il ponderoso aiuto nel lavoro di ricognizione e reperimento dei materiali. 
