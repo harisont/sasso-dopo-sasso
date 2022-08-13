@@ -8,10 +8,10 @@ Testimonianza ulteriore del forte interesse faunistico della curatrice Katia Gri
 Sezione piú ricca e nutrita dell'intera esposizione, ospita diversi esemplari litici di volatili domestici e selvatici.
 Al suo interno, per la prima volta parte di un'esposizione aperta al pubblico, alcuni pezzi della collezione privata fanese "__Le galline pensierose__". 
 
-__"Sassi consunti"__ ospita invece ciottoli fluitati dall'apparente ma convincente aspetto di manufatti, spostando l'attenzione sul rapporto uomo-natura.
+"__Sassi consunti__" ospita invece ciottoli fluitati dall'apparente ma convincente aspetto di manufatti, spostando l'attenzione sul rapporto uomo-natura.
 Di particolare interesse il fenomeno natura-cultura-natura, per cui il materiale grezzo, dopo la lavorazione, é nuovamente smussato dalla periodica azione meccanica del moto ondoso e levigato dall'azione congiunta del vento e della sabbia, riassumendo dunque la _facies_ di elemento naturale.
 
-Adatte ad un pubblico di ogni etá le due sezioni __"Sassi bestiali"__ e __"Sassi espressivi"__.
+Adatte ad un pubblico di ogni etá le due sezioni "__Sassi bestiali__" e "__Sassi espressivi__".
 La prima, una collezione di pietre zoomorfe, evidenzia la straordinaria biodiversitá del Comune di Realmonte. 
 La seconda, composta da ciottoli antropomorfi, rimanda, tramite le innumerevoli espressioni facciali rappresentatevi, alle diverse sfumature dell'emotivitá umana.
 
