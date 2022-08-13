@@ -1,16 +1,17 @@
 ---
 title: Ringraziamenti
+layout: post
 ---
 
-### Ideazione
+#### Ideazione
 Katia Grillo
 
-### Allestimento
+#### Allestimento
 - Katia Grillo
 - Arianna Masciolini
 - Velia Sajeva
 
-### Progetto grafico
+#### Progetto grafico
 Velia Sajeva
 
 #### Fotografie
