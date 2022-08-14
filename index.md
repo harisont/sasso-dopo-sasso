@@ -20,6 +20,8 @@ Adatte ad un pubblico di ogni etá le due sezioni "__Sassi bestiali__" e "__Sass
 La prima, una collezione di pietre zoomorfe, evidenzia la straordinaria biodiversitá del Comune di Realmonte. 
 La seconda, composta da ciottoli antropomorfi, rimanda, tramite le innumerevoli espressioni facciali rappresentatevi, alle diverse sfumature dell'emotivitá umana.
 
+Lungi dal concentrarsi esclusivamente sull'estetica del ciottolo, la mostra dá spazio anche agli aspetti pragmatici della pietra, presentando un campionario piccolo ma significativo delle forme naturali che senza alcun dubbio hanno ispirato gli esordi del design scandinavo e che continuano a dettare i canoni stilistici del colosso svedese IKEA. La sezione, intolata "__Sassi utili__", presenta sassi con una funzione specifica, estrapolandoli saggiamente dal loro contesto d'uso quotidiano.
+
 La serie "__Sassi vari__", culminante nel gruppo "__I grandi sassi__", presenta pietre aventi ciascuna una forte individualitá, nella cui interpretazione il visitatore é volutamente lasciato libero, assolvendo cosí ad una funzione proiettivo-catartica.
 
 L'importante sezione "__Altri sassi__" intende invece indurre il pubblico ad un atteggiamento di empatico rispetto verso ció che ad uno sguardo frettoloso puó apparire materia inerte e inamovibile. Al contrario, il gruppo "__Sassi in piedi e sassi seduti__" restituisce allo spettatore un'impressione di vivo dinamismo.
