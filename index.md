@@ -3,6 +3,8 @@ title: Sasso dopo sasso - la mostra
 layout: post
 ---
 
+![Alcuni ciottoli esposti. Sullo sfondo, le palme del giardino della splendida Villa Grillo](img/homepage.JPG)
+
 La mostra "Sasso dopo sasso" é un omaggio alla varietá geologica della baia di Capo Rossello.
 
 Articolata in diverse sezioni, offre uno spaccato delle molteplici capacitá espressive di materiali del territorio quali calcare, marna, selce, tufo, quarzo, pomice, pietra lavica, basalto, marmo ed arenaria, caratteristici del piccolo ecosistema locale.
