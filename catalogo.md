@@ -5,8 +5,21 @@ layout: post
 
 ## Un mare di sassi
 
-![Tutte le specie ittiche della sezione "Un mare di sassi" in un unico, caleidoscopico scatto](img/un_mare_di_sassi_small.JPG)
-Tutte le specie ittiche della sezione "Un mare di sassi" in un unico, caleidoscopico scatto.
+![](img/un_mare_di_sassi/un_mare_di_sassi_small.JPG)
+
+![](img/un_mare_di_sassi/occhiata.JPG)
+
+![](img/un_mare_di_sassi/pesce_plastica.JPG)
+
+![](img/un_mare_di_sassi/pescetti.JPG)
+
+![](img/un_mare_di_sassi/pescione.JPG)
+
+![](img/un_mare_di_sassi/pescini.JPG)
+
+![](img/un_mare_di_sassi/vignette.JPG)
+
+![](img/un_mare_di_sassi/due.JPG)
 
 ## Uccellacci ed uccellini
 
