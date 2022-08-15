@@ -67,7 +67,10 @@ layout: post
 
 ![](img/sassi_utili/posacenere.JPG)
 
-## Sassi in piedi e sassi seduti
+## Sassi in piedi, sassi seduti
+![](img/sassi_in_piedi_sassi_seduti/sassi_in_piedi_sassi_seduti.JPG)
+
+![](img/sassi_in_piedi_sassi_seduti/dettaglio.JPG)
 
 ## Sassi vari
 1. Sasso
@@ -138,11 +141,26 @@ layout: post
 66. Sasso prezioso
 
 ### I grandi sassi
-1. Sasso spaccato
-2. Sasso mozzato
-3. Sasso concentrico
-4. Sasso lunatico
+![](img/sassi_vari/i_grandi_sassi/i_grandi_sassi.JPG)
+
+![](img/sassi_vari/i_grandi_sassi/concentrico.JPG)
+
+![](img/sassi_vari/i_grandi_sassi/spaccato.JPG)
+
+![](img/sassi_vari/i_grandi_sassi/mozzato.JPG)
 
 ## Altri sassi
+![](img/altri_sassi/altri_sassi.JPG)
+
+![](img/altri_sassi/cicatrice.JPG)
+
+![](img/altri_sassi/ideogramma.JPG)
+
+![](img/altri_sassi/oro.JPG)
+
+![](img/altri_sassi/piedistallo.JPG)
 
 ## Sassi di scorta
+![](img/sassi_di_scorta/sassi_di_scorta.JPG)
+
+![](img/sassi_di_scorta/secchio.JPG)
