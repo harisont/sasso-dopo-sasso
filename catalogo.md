@@ -22,6 +22,17 @@ layout: post
 ![](img/un_mare_di_sassi/due.JPG)
 
 ## Uccellacci ed uccellini
+![](img/uccellacci_ed_uccellini/uccellacci_ed_uccellini.JPG)
+
+![](img/uccellacci_ed_uccellini/pollaio.JPG)
+
+![](img/uccellacci_ed_uccellini/piccioni.JPG)
+
+![](img/uccellacci_ed_uccellini/famigliola.JPG)
+
+![](img/uccellacci_ed_uccellini/fila.JPG)
+
+![](img/uccellacci_ed_uccellini/a_beccare.JPG)
 
 ### Le galline pensierose
 
