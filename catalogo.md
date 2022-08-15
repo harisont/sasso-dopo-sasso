@@ -43,8 +43,18 @@ layout: post
 ![](img/sassi_consunti/dettaglio.JPG)
 
 ## Sassi bestiali
+![](img/sassi_bestiali/sassi_bestiali.JPG)
+
+![](img/sassi_bestiali/leone.JPG)
+
+![](img/sassi_bestiali/civetta.JPG)
+
+![](img/sassi_bestiali/squalone.JPG)
 
 ## Sassi espressivi
+![](img/sassi_espressivi/sassi_espressivi.JPG)
+
+![](img/sassi_espressivi/perplesso.JPG)
 
 ## Sassi utili
 ![](img/sassi_utili/sassi_utili.JPG)
