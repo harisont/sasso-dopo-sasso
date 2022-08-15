@@ -5,6 +5,8 @@ layout: post
 
 ## Un mare di sassi
 
+{% include image.html file="un_mare_di_sassi.JPG" description="TODO:" %}
+
 ## Uccellacci ed uccellini
 
 ### Le galline pensierose
