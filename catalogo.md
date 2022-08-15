@@ -47,6 +47,15 @@ layout: post
 ## Sassi espressivi
 
 ## Sassi utili
+![](img/sassi_utili/sassi_utili.JPG)
+
+![](img/sassi_utili/portasapone.JPG)
+
+![](img/sassi_utili/portaspazzolino.JPG)
+
+![](img/sassi_utili/fermacarte.JPG)
+
+![](img/sassi_utili/posacenere.JPG)
 
 ## Sassi in piedi e sassi seduti
 
