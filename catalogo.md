@@ -5,7 +5,8 @@ layout: post
 
 ## Un mare di sassi
 
-{% include image.html file="img/un_mare_di_sassi_small.JPG" description="TODO:" %}
+![Tutte le specie ittiche della sezione "Un mare di sassi" in un unico, caleidoscopico scatto](img/un_mare_di_sassi_small.JPG)
+Tutte le specie ittiche della sezione "Un mare di sassi" in un unico, caleidoscopico scatto.
 
 ## Uccellacci ed uccellini
 
