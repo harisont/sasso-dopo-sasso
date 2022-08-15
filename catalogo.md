@@ -35,8 +35,12 @@ layout: post
 ![](img/uccellacci_ed_uccellini/a_beccare.JPG)
 
 ### Le galline pensierose
+![](img/uccellacci_ed_uccellini/le_galline_pensierose.JPG)
 
 ## Sassi consunti
+![](img/sassi_consunti/sassi_consunti.JPG)
+
+![](img/sassi_consunti/dettaglio.JPG)
 
 ## Sassi bestiali
 
