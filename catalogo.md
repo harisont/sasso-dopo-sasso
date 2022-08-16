@@ -5,7 +5,7 @@ layout: post
 
 ## Un mare di sassi
 
-![](img/un_mare_di_sassi/un_mare_di_sassi_small.JPG)
+![](img/un_mare_di_sassi/un_mare_di_sassi.JPG)
 
 ![](img/un_mare_di_sassi/occhiata.JPG)
 

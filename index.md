@@ -3,7 +3,7 @@ title: Sasso dopo sasso - la mostra
 layout: post
 ---
 
-![Alcuni ciottoli esposti. Sullo sfondo, le palme del giardino della splendida Villa Grillo](img/homepage_2.JPG)
+![Alcuni ciottoli esposti. Sullo sfondo, le palme del giardino della splendida Villa Grillo](img/homepage.JPG)
 
 La mostra "Sasso dopo sasso" é un omaggio alla varietá geologica della baia di Capo Rossello.
 
